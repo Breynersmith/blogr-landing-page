@@ -20,7 +20,7 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: [Solucion](https://github.com/Breynersmith/blogr-landing-page.git)
-- Live Site URL: [Enlace](https://your-live-site-url.com)
+- Live Site URL: [Enlace](https://breynersmith.github.io/blogr-landing-page/)
 
 ## My process
 
