@@ -86,8 +86,8 @@
                 <img class="tablet:scale-150 tablet:w-[100%]  desktopSmall:-mt-10 desktopSmall:w-[100%]" src="../assets/images/illustration-laptop-mobile.svg" alt="laptop"
                     title="laptop">
             </div>
-            <div class="tablet:w-[100%] tablet:mt-[5rem] desktopSmall:scale-75 desktopBig:scale-100 desktopSmall:text-left desktopSmall:w-[100%] desktopSmall:text-[1.1rem] desktopBig:text-[1.4rem] desktopSmall:-mt-16 tablet:flex tablet:flex-row tablet:items-start desktopSmall:flex-col">
-                <div class="mb-10 mt-10  tablet:w-[50%]">
+            <div class="tablet:w-[100%] tablet:mt-[5rem] desktopSmall:scale-75 desktopBig:scale-100 desktopSmall:text-left desktopSmall:w-[100%] desktopSmall:text-[1.1rem] desktopBig:text-[1.4rem] desktopSmall:-mt-16 tablet:flex tablet:flex-row tablet:items-start desktopSmall:flex-col ">
+                <div class="mb-10 mt-10  tablet:w-[50%] desktopSmall:w-[100%]">
                     <h2 class="text-veryDarkBlue text-2xl  font-semibold mb-5">Free, open, simple</h2>
                     <p>Blogr is a free and open source application backed by a large community of helpful developers. It
                         supports
@@ -96,7 +96,7 @@
                         and works seamlessly with Google Analytics. The architecture is clean and is relatively easy to
                         learn.</p>
                 </div>
-                <div class="mb-10 mt-10 tablet:w-[50%]">
+                <div class="mb-10 mt-10 tablet:w-[50%] desktopSmall:w-[100%]">
                     <h2 class="text-veryDarkBlue text-2xl font-semibold mb-5">Powerful tooling</h2>
                     <p>Batteries included. We built a simple and straightforward CLI tool that makes customization and
                         deployment a breeze, but
